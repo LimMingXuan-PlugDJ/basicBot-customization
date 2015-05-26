@@ -103,7 +103,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["Welcome to the community!","Please do not curse or swear. If noticed, you will be kicked!"],
+        intervalMessages: ["Welcome to the community!", "Please do not curse or swear. If noticed, you will be kicked!"],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
